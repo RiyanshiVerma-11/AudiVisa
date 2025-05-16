@@ -1,0 +1,14 @@
+streamlit
+pdfplumber
+pytesseract
+Pillow
+gTTS
+pygame
+pyttsx3
+SpeechRecognition
+googletrans==4.0.0-rc1
+deep-translator
+transformers
+torch
+moviepy
+openai
