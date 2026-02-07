@@ -1,0 +1,5 @@
+tesseract-ocr
+libtesseract-dev          # helps pytesseract find it
+poppler-utils             # for pdfplumber / better PDF handling
+ffmpeg                    # critical for moviepy (audio/video processing)
+libespeak1                # optional, helps pyttsx3 if you insist on using it
